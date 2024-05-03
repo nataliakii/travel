@@ -3,34 +3,34 @@ import image from "@/images/shapes/destinations-two-shape.png";
 const destinationsTwo = {
   image,
   tagline: "Our destination lists",
-  title: "Checkout Beautiful Places Arround the World",
+  title: "Checkout Beautiful Places Arround Greece",
   destinations: [
     {
       id: 1,
       image: "destinations-two-img-1.jpg",
-      title: "Spain",
+      title: "Ситония",
     },
     {
       id: 2,
       image: "destinations-two-img-2.jpg",
       subtitle: "New",
-      title: "Africa",
+      title: "Корфу",
     },
     {
       id: 3,
       image: "destinations-two-img-3.jpg",
-      title: "Europe",
+      title: "Салоники",
     },
     {
       id: 4,
       image: "destinations-two-img-4.jpg",
       subtitle: "Wildlife",
-      title: "Thailand",
+      title: "Тасос",
     },
     {
       id: 5,
       image: "destinations-two-img-5.jpg",
-      title: "Dubai",
+      title: "Монастыри",
     },
   ],
   off: "30%",

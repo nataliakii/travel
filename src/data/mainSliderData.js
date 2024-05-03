@@ -1,6 +1,6 @@
-import bg1 from "@/images/backgrounds/main-slider-1-1.jpg";
-import bg2 from "@/images/backgrounds/main-slider-1-2.jpg";
-import bg3 from "@/images/backgrounds/main-slider-1-3.jpg";
+import bg1 from "@/images/backgrounds/main-slider-1-1.png";
+import bg2 from "@/images/backgrounds/main-slider-1-2.png";
+import bg3 from "@/images/backgrounds/main-slider-1-3.png";
 
 const mainSliderData = [
   {
@@ -12,14 +12,14 @@ const mainSliderData = [
   {
     id: 2,
     bg: bg2,
-    subTitle: "Where Would You Like To Go?",
+    subTitle: "Amazing tours in Halkidiki",
     title: "Travel & Adventures",
   },
   {
     id: 3,
     bg: bg3,
-    subTitle: "Where Would You Like To Go?",
-    title: "Travel & Adventures",
+    subTitle: "Amazing tours in Thessaloniki",
+    title: "Thessaloniki",
   },
 ];
 

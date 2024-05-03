@@ -14,7 +14,6 @@ const aboutTwo = {
   lists: [
     "Trust and Safety",
     "Best Price Guarantee",
-    "Easy & Quick Booking",
     "Best Travel Agents",
   ],
 };

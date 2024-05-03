@@ -1,7 +1,7 @@
 const counterOne = [
   {
     id: 1,
-    text: "Total Donations",
+    text: "Total tours",
     count: 870,
   },
   {
@@ -11,14 +11,10 @@ const counterOne = [
   },
   {
     id: 3,
-    text: "Happy People",
+    text: "Happy Tourists",
     count: 930,
   },
-  {
-    id: 4,
-    text: "Our Volunteers",
-    count: 63,
-  },
+
 ];
 
 export default counterOne;

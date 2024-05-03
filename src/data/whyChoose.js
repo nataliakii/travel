@@ -17,13 +17,13 @@ const whyChoose = {
       description:
         "Lorem ipsum is simply free text dolor sit but the majority have suffered amet, consectetur notted.",
     },
-    {
-      id: 2,
-      icon: "icon-travel-map",
-      title: "Get Instant Tour Bookings",
-      description:
-        "Lorem ipsum is simply free text dolor sit but the majority have suffered amet, consectetur notted.",
-    },
+    // {
+    //   id: 2,
+    //   icon: "icon-travel-map",
+    //   title: "Get Instant Tour Bookings",
+    //   description:
+    //     "Lorem ipsum is simply free text dolor sit but the majority have suffered amet, consectetur notted.",
+    // },
   ],
 };
 

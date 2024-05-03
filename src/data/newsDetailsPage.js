@@ -18,7 +18,7 @@ const newsDetailsPage = {
   date: "28 Aug",
   author: "Admin",
   totalComments: 2,
-  title: "Things to See and Do When Visiting Japan",
+  title: "Things to See and Do When Visiting Sithonia",
   texts: [text1, text2, text3, text4],
   tags: ["Traveling", "Adventure"],
   socials: [

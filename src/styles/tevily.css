@@ -20,15 +20,15 @@
 :root {
   --thm-font: "DM Sans", sans-serif;
   --thm-reey-font: "reeyregular";
-  --thm-gray: 	#cc2a36;
+  --thm-gray: 		#3c6993;
   --thm-gray-rgb: 204,42,54;
-  --thm-primary:	#f9d62e;
+  --thm-primary:	#5b90c0;
   --thm-primary-rgb: 249,214,46;
-  --thm-black: 	#4f372d;
+  --thm-black: 		#073763;
   --thm-black-rgb: 79,55,45;
   --thm-base: #ffffff;
   --thm-base-rgb:255,238,173;
-  --thm-clr-extra: #88d8b0;
+  --thm-clr-extra: #5b90c0;
   --thm-border-radius: 8px;
   --thm-letter-spacing: -0.02em;
 }

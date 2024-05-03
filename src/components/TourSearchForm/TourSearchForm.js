@@ -37,9 +37,9 @@ const customStyle = {
     borderBottom:
       state.label === typeOptions[typeOptions.length - 1].label
         ? "none"
-        : "0.5px solid #ffffff33",
+        : "0.5px solid #5b90c0",
     "&:hover": {
-      backgroundColor: "#e8604c",
+      backgroundColor: "#5b90c0",
     },
     borderRadius:
       state.label === typeOptions[typeOptions.length - 1].label

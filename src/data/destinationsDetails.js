@@ -8,14 +8,14 @@ const text2 =
 
 export const destinationsDetailsLeft = {
   image,
-  discoverTitle: "Discover Spain",
+  discoverTitle: "Discover Korfu",
   texts: [text1, text2],
   overviewTitle: "Overview",
   overviews: [
     {
       id: 1,
       left: "Country",
-      right: "Americas",
+      right: "Greece",
     },
     {
       id: 2,
