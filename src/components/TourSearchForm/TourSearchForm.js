@@ -31,7 +31,7 @@ const customStyle = {
     ...provided,
     color: "white",
     padding: "4px 20px",
-    backgroundColor: state.isSelected ? "#e8604c" : "#313041",
+    backgroundColor: state.isSelected ? "#5b90c0" : "#313041",
     transition: "all 0.4s ease",
     cursor: "pointer",
     borderBottom:
@@ -92,7 +92,7 @@ const TourSearchForm = () => {
               id="place"
             />
           </div>
-          <div className="tour-search-one__input-box">
+          {/* <div className="tour-search-one__input-box">
             <label>When</label>
             <DatePicker
               selected={startDate}
@@ -100,7 +100,7 @@ const TourSearchForm = () => {
               className="hasDatepicker"
               placeholderText="September"
             />
-          </div>
+          </div> */}
           <div className="tour-search-one__input-box tour-search-one__input-box-last">
             <label htmlFor="type">Type</label>
             <Select

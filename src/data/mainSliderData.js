@@ -7,19 +7,19 @@ const mainSliderData = [
     id: 1,
     bg: bg1,
     subTitle: "Where Would You Like To Go?",
-    title: "Travel & Adventures",
+    title: "Best tours in Halkidiki",
   },
   {
     id: 2,
     bg: bg2,
     subTitle: "Amazing tours in Halkidiki",
-    title: "Travel & Adventures",
+    title: "Best Tours",
   },
   {
     id: 3,
     bg: bg3,
-    subTitle: "Amazing tours in Thessaloniki",
-    title: "Thessaloniki",
+    subTitle: "To Thessaloniki",
+    title: "Luxury tours",
   },
 ];
 

@@ -16,7 +16,7 @@ const About = () => {
       <AboutPage />
       <BookNow />
       <TestimonialOne aboutPage />
-      <VideoTwo />
+      {/* <VideoTwo /> */}
       <CounterOne />
       <TeamOne />
       <BrandTwo brandThree />
